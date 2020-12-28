@@ -1,2 +1,2 @@
 # cluster
-LAN chat room
+Terminal Chat API
