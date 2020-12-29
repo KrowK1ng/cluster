@@ -4,9 +4,7 @@ Terminal Chat API
 
 ## How to build
 
----
-
-## Windows Requirements
+### Windows Requirements
 
 - Visual Stduio Community 2019
 - CMake GUI
@@ -15,9 +13,12 @@ Terminal Chat API
 
 - Doxygen
 
----
+### Linux Requirements
 
-## Windows Building
+- CMake
+- GCC and G++
+
+### Windows Building
 
 1) Create a `build` folder inside the source
 2) Run Cmake GUI and select `X:\path\to\cluster` as source and `X:\path\to\cluster\build` as build directory
